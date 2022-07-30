@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/stefantimosenco"><img src="https://api.daily.dev/devcards/77847b231c93458ab134ccbc64c6f200.png?r=io5" width="200px" height="100px" alt="Stefan's Dev Card"/></a>
+<a href="https://app.daily.dev/stefantimosenco"><img src="https://api.daily.dev/devcards/77847b231c93458ab134ccbc64c6f200.png?r=io5" width="400px" alt="Stefan's Dev Card"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=st3fun1&show_icons=true)
 
