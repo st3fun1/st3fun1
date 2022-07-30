@@ -1,4 +1,10 @@
 ### Hi there 👋
+--
+
+#### I'm Stefan Timosenco
+
+- I'm a front-end developer which doesn't have a favourite framework, I can do my job with any tool
+- I'm aiming to become a fullstack developer by learning Golang and back-end development good practices
 
 <!--
 **st3fun1/st3fun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
