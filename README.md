@@ -1,7 +1,8 @@
 ### Hi there 👋
---
+<hr/>
 
 #### I'm Stefan Timosenco
+<hr/>
 
 - Front-end developer which doesn't have a favourite framework, I can do my job with any tool
 - Aiming to become a fullstack developer by learning Golang and back-end development good practices
