@@ -8,5 +8,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=st3fun1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<center> ![](https://komarev.com/ghpvc/?username=st3fun1&label=PROFILE+VIEWS) </center>
+![](https://komarev.com/ghpvc/?username=st3fun1&label=PROFILE+VIEWS)
 
